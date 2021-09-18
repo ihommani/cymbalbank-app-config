@@ -1,6 +1,5 @@
 ## kustomize - Cymbal Bank 
 
-
 This directory contains base and overlay manifests for the CymbalBank app. These manifests are intended for use with kustomize.
 
 ### `base/` 
